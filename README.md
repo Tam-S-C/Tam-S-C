@@ -9,7 +9,11 @@
   
 - ✨ Hobbies: Playing the violin 🎻, watching fantasy and sci-fi series 🚀
 
-- 📫 Connect with me >> <a href="https://www.linkedin.com/in/tamara-canzobre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamara-canzobre/" height="15"/></a>
+- 📫 Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-canzobre/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/tamaracanzobre)
+
 
 
 ------
