@@ -9,18 +9,17 @@
   
 - ✨ Hobbies: Playing the violin 🎻, watching fantasy and sci-fi series 🚀
 
-- 🧩 Soft Skills:  Organization 📋 and Responsibility 🗓️ // Communication 🗣️ and Emotional Intelligence ❤️🤝 // Creativity 🎨 and Attention to Details 👁️🔍 
+- 🧩 Soft Skills:  Organization 📋 and Responsibility 🗓️ // Communication 🗣️ and Emotional Intelligence ❤️🤝 // Creativity 🎨 and Attention to Details 👁️🔍
 
-- 📫 Connect with me:
+-------
+<h3> > Connect with me </h3>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-canzobre/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-canzobre/) 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/tamaracanzobre)
-
-
 
 ------
 
-<h3> > Frontend</h3>
+<h3> > Frontend </h3>
 
 ![image](https://github.com/user-attachments/assets/09bb3851-8f1c-44b2-a0f1-330181e7aad1)
 ![image](https://github.com/user-attachments/assets/e27f4435-1fa4-43b0-93a4-9f2da115d562)
@@ -36,9 +35,10 @@
 
 -----
 
-<h3> > Design</h3>
+<h3> > Design </h3>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30"/></a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28"/></a>
 ![image](https://github.com/user-attachments/assets/04d1c25b-71a6-4c2e-8b5c-c0cbc045ef8e) 
 ![image](https://github.com/user-attachments/assets/1dc24ed1-b6be-432c-82e7-45a4252f1246) 
 
