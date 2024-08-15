@@ -20,7 +20,8 @@
 <h3> > Connect with me </h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-canzobre/) 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.behance.net/tamaracanzobre)
+[![portfolio](https://img.shields.io/badge/Be_Behance-000?style=for-the-badge&logoColor=black)](https://www.behance.net/tamaracanzobre)
+[![portfolioWeb](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://tamarascanzobre.myportfolio.com/)
 
 ------
 
