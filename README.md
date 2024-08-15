@@ -9,7 +9,11 @@
   
 - ✨ Hobbies: Playing the violin 🎻, watching fantasy and sci-fi series 🚀
 
-- 🧩 Soft Skills:  Organization 📋 and Responsibility 🗓️ // Communication 🗣️ and sincerity above all ❤️*Empathy* 🤝 // Creativity 🎨 and Attention to Details 👁️🔍
+- 🧩 Soft Skills:
+  
+      > Organization 📋 and Responsibility 🗓️
+      > Communication 🗣️ Sincerity above all ❤️and *Empathy* 🤝
+      > Creativity 🎨 and Attention to Details 👁️🔍
 
 -------
 
