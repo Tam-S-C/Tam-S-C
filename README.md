@@ -7,7 +7,7 @@
 
 - 💻 I like to stay updated in the world of technology.
   
-- ✨ Hobbies: Playing the violin 🎻, watching fantasy and sci-fi series 🚀
+- ✨ Hobbies: Playing the violin 🎻and watching fantasy and sci-fi series 🚀
 
 - 🧩 Soft Skills:
   
