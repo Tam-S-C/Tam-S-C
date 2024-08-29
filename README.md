@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m Tam! </h2>
 <h3> > About Me </h3>
 
-- 📍 I'm from Bs. As., Argentina🇦🇷
+- 📍 I'm from Bs. As., Argentina 🇦🇷
 
 - 📲 I’m currently learning app development.
 
