@@ -8,12 +8,12 @@
 - 💻 I like to stay updated in the world of technology.
   
 - ✨ Hobbies: Playing the violin 🎻 and watching fantasy and sci-fi series 🚀
-
-- 🧩 Soft Skills:
-  
-      > Organization 📋 and Responsibility 🗓️
-      > Communication 🗣️ Sincerity above all ❤️ and *Empathy* 🤝
-      > Creativity 🎨 and Attention to Details 👁️🔍
+ 
+> [!NOTE]
+> 🧩 Soft Skills:
+  - Organization 📋 and Responsibility 🗓️
+  - Communication 🗣️ Sincerity above all ❤️ and *Empathy* 🤝
+  - Creativity 🎨 and Attention to Details 👁️🔍
 
 -------
 
