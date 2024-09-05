@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m Tam! </h2>
+<h1> 👋 Hi, I’m Tam! </h1>
 <h3> > About Me </h3>
 
 - 📍 I'm from Bs. As., Argentina 🇦🇷
