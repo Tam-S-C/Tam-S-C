@@ -48,7 +48,38 @@
 ![image](https://github.com/user-attachments/assets/04d1c25b-71a6-4c2e-8b5c-c0cbc045ef8e) 
 ![image](https://github.com/user-attachments/assets/1dc24ed1-b6be-432c-82e7-45a4252f1246) 
 
+-----
 
+<h3> > Pack Office </h3>
+
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" alt="Word" width="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ifP93G7BXUhU&format=png&color=000000" alt="PowerPoint" width="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="40"/></a>
+
+
+-----
+
+ES
+
+<h1> 👋 Hola, Soy Tam! </h1>
+<h3> > Sobre mí </h3>
+
+- 📍 Soy de Buenos Aires, Argentina.
+
+- Soy diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
+
+- Me gusta estar siempre aprendiendo habilidades nuevas y sumando conocimientos,
+  actualmente estoy especializándome en Programación📲 y Diseño UI
+  y buscando un trabajo trainee, jr. o pasantía de ello.
+
+- Hobbies: Tocar el violín 🎻 y ver series y películas de fantasía o sci-fi 🚀
+
+> [!NOTE]
+> 🧩 Habilidades Blandas:
+- Organización 📋 y responsabilidad 🗓️
+- Comunicación 🗣️ Sinceridad sobre todas las cosas ❤️ y Empatía 🤝
+- Creatividad 🎨 y atención a los detalles 👁️🔍
 
 
 
