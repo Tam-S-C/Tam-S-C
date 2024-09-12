@@ -2,18 +2,15 @@
 <h3> > About Me </h3>
 
 - 📍 I'm from Bs. As., Argentina 🇦🇷
-
 - 📲 I’m currently learning app development.
-
-- 💻 I like to stay updated in the world of technology.
-  
+- 💻 I like to stay updated in the world of technology.  
 - ✨ Hobbies: Playing the violin 🎻 and watching fantasy and sci-fi series 🚀
  
 > [!NOTE]
 > 🧩 Soft Skills:
-  - Organization 📋 and Responsibility 🗓️
-  - Communication 🗣️ Sincerity above all ❤️ and *Empathy* 🤝
-  - Creativity 🎨 and Attention to Details 👁️🔍
+  - *Organization* 📋 and *Responsibility* 🗓️
+  - *Communication* 🗣️ *Sincerity* above all ❤️ and *Empathy* 🤝
+  - *Creativity* 🎨 and *Attention to *Details* 👁️🔍
 
 -------
 
@@ -66,20 +63,19 @@ ES
 <h3> > Sobre mí </h3>
 
 - 📍 Soy de Buenos Aires, Argentina.
-
 - Soy diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
-
 - Me gusta estar siempre aprendiendo habilidades nuevas y sumando conocimientos,
-  actualmente estoy especializándome en Programación📲 y Diseño UI
-  y buscando un trabajo trainee, jr. o pasantía de ello.
 
+  actualmente estoy especializándome en Programación📲 y Diseño UI
+  
+  y buscando un trabajo trainee, jr. o pasantía de ello.
 - Hobbies: Tocar el violín 🎻 y ver series y películas de fantasía o sci-fi 🚀
 
 > [!NOTE]
 > 🧩 Habilidades Blandas:
-- Organización 📋 y responsabilidad 🗓️
-- Comunicación 🗣️ Sinceridad sobre todas las cosas ❤️ y Empatía 🤝
-- Creatividad 🎨 y atención a los detalles 👁️🔍
+- *Organización* 📋 y *Responsabilidad* 🗓️
+- *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
+- *Creatividad* 🎨 y *Atención* a los *Detalle*s 👁️🔍
 
 
 
