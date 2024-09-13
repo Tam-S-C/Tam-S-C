@@ -6,7 +6,7 @@
 - 💻 I like to stay updated in the world of technology.  
 - ✨ Hobbies: Playing the violin 🎻 and watching fantasy and sci-fi series 🚀
  
-> [!NOTE]
+> [!IMPORTANT]
 > 🧩 Soft Skills:
   - *Organization* 📋 and *Responsibility* 🗓️
   - *Communication* 🗣️ *Sincerity* above all ❤️ and *Empathy* 🤝
@@ -71,7 +71,7 @@ ES
   y buscando un trabajo trainee, jr. o pasantía de ello.
 - Hobbies: Tocar el violín 🎻 y ver series y películas de fantasía o sci-fi 🚀
 
-> [!NOTE]
+> [!IMPORTANT]
 > 🧩 Habilidades Blandas:
 - *Organización* 📋 y *Responsabilidad* 🗓️
 - *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
