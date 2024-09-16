@@ -22,6 +22,8 @@
 
 ------
 
+## > SKILLS 💻 ##
+
 <h3> > Frontend </h3>
 
 ![image](https://github.com/user-attachments/assets/09bb3851-8f1c-44b2-a0f1-330181e7aad1)
@@ -35,9 +37,6 @@
 ![image](https://github.com/user-attachments/assets/e8be5317-335b-42f1-a439-aeea4ae937f1)
 
 
-
------
-
 <h3> > Design </h3>
 
 
@@ -45,7 +44,6 @@
 ![image](https://github.com/user-attachments/assets/04d1c25b-71a6-4c2e-8b5c-c0cbc045ef8e) 
 ![image](https://github.com/user-attachments/assets/1dc24ed1-b6be-432c-82e7-45a4252f1246) 
 
------
 
 <h3> > Pack Office </h3>
 
@@ -54,6 +52,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ifP93G7BXUhU&format=png&color=000000" alt="PowerPoint" width="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="40"/></a>
 
+-----
+
+<h3> > Idiomas </h3>
+
+- Español: Nativo
+- Inlgés: Upper Intermediate
 
 -----
 
