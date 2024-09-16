@@ -57,7 +57,7 @@
 <h3> > Idiomas </h3>
 
 - Español: Nativo
-- Inlgés: Upper Intermediate
+- Inlgés: Upper Intermediate / B2
 
 -----
 
