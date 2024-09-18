@@ -12,7 +12,7 @@
   - *Communication* 🗣️ *Sincerity* above all ❤️ and *Empathy* 🤝
   - *Creativity* 🎨 and *Attention to *Details* 👁️🔍
 
--------
+------
 
 <h3> > Connect with me </h3>
 
