@@ -10,7 +10,7 @@
 > 🧩 Soft Skills:
   - *Organization* 📋 and *Responsibility* 🗓️
   - *Communication* 🗣️ *Sincerity* above all ❤️ and *Empathy* 🤝
-  - *Creativity* 🎨 and *Attention to *Details* 👁️🔍
+  - *Creativity* 🎨 and *Attention* to *Details* 👁️🔍
 
 ------
 
