@@ -87,4 +87,6 @@ ES
 |:--:|:--:|:--:|
 | ![JavaScript](https://media.licdn.com/dms/image/v2/D4D2DAQEqsZ8vqu0Frg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719366093878?e=1728878400&v=beta&t=lEX1lZ20itflGOucdVPtbwaQhai0nSz7KZBE9lepHvc) | ![React JS](https://media.licdn.com/dms/image/v2/D4D2DAQElCZ9deok7oQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728162521293?e=1728878400&v=beta&t=9Sc47SYH7H8VmoM7ms_WnDFYuQWoMoJWhT5RiH9m5jc) | ![UX/UI](https://media.licdn.com/dms/image/v2/D4D2DAQGMw3kWvcx5pQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1722140045247?e=1728878400&v=beta&t=RHjYkU3M35dygkEA_lHYZVuCjfLDJrlr5HWETGCIWtk) |
 
-
+| **Java FullStack** | **TypeScript** | **FrontEnd - HTML/CSS/JS** |
+|:--:|:--:|:--:|
+| ![JavaFullStack](https://media.licdn.com/dms/image/D4D2DAQHsEJOz53NcFw/profile-treasury-document-images_800/1/1724959499116?e=1729123200&v=beta&t=U-gxZO30RhiPXuUiBqc6_YWELaDqMYXJhANOZ4MMxYQ) | ![TypeScript](https://media.licdn.com/dms/image/v2/D4D2DAQF6ODVjAYjA8Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719201679815?e=1728878400&v=beta&t=uyUjR0xTt_SZZ_7GXXMJLMSt7q3xAchMeDCzokGrzyw) | ![FrontEnd - HTML/CSS/JS](https://media.licdn.com/dms/image/D4D2DAQEzwKHBzLIYaQ/profile-treasury-document-images_800/1/1701912678793?e=1729123200&v=beta&t=5PDTNVG0-nB-O57WyWiCoNVZXFKMKiw7htYfN6AmdUQ) |
