@@ -82,5 +82,9 @@ ES
 - *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
 - *Creatividad* 🎨 y *Atención* a los *Detalle*s 👁️🔍
 
+-----
+| **JavaScript** | **React JS** | **UX/UI** |
+|:--:|:--:|:--:|
+| ![JavaScript](https://media.licdn.com/dms/image/v2/D4D2DAQEqsZ8vqu0Frg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719366093878?e=1728878400&v=beta&t=lEX1lZ20itflGOucdVPtbwaQhai0nSz7KZBE9lepHvc) | ![React JS](https://media.licdn.com/dms/image/v2/D4D2DAQElCZ9deok7oQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728162521293?e=1728878400&v=beta&t=9Sc47SYH7H8VmoM7ms_WnDFYuQWoMoJWhT5RiH9m5jc) | ![UX/UI](https://media.licdn.com/dms/image/v2/D4D2DAQGMw3kWvcx5pQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1722140045247?e=1728878400&v=beta&t=RHjYkU3M35dygkEA_lHYZVuCjfLDJrlr5HWETGCIWtk) |
 
 
