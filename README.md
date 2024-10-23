@@ -82,11 +82,3 @@ ES
 - *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
 - *Creatividad* 🎨 y *Atención* a los *Detalle*s 👁️🔍
 
------
-| **JavaScript** | **React JS** | **Diseño UX/UI** |
-|:--:|:--:|:--:|
-| ![JavaScript](https://media.licdn.com/dms/image/v2/D4D2DAQGmEJKL_m0N_Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728448361655?e=1729569600&v=beta&t=Rb7HpEe1Gk6BuRU7Wz7sQGpBT1lsnQ42p1Cxhhb6KOc) | ![React JS](https://media.licdn.com/dms/image/v2/D4D2DAQFQuou2pbJztw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728448065380?e=1729569600&v=beta&t=2CXIhSPTWeICY_AKrISd4SgqMhN7oqHhlJK0OMjpZxQ) | ![UX/UI](https://media.licdn.com/dms/image/v2/D4D2DAQG6wpPAZbgknQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1728448192854?e=1729569600&v=beta&t=hZ61pkIpQOswnN-aFbPTT3ZJITkystFd_2Yd9hV1tBU) |
-
-| **Java FullStack** | **TypeScript** | **FrontEnd - HTML/CSS/JS** |
-|:--:|:--:|:--:|
-| ![JavaFullStack](https://media.licdn.com/dms/image/D4D2DAQHsEJOz53NcFw/profile-treasury-document-images_1280/1/1724959499188?e=1730332800&v=beta&t=A-v0wWT197ZYHXejlKA0Gh_c0O3G71mcoj1NjVq4WZI) | ![TypeScript](https://media.licdn.com/dms/image/v2/D4D2DAQF6ODVjAYjA8Q/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1719201679815?e=1729569600&v=beta&t=vgwcqQO4xMv_ufc1WQae9psNJ3FK95OL95J9gCCnzls) | ![FrontEnd - HTML/CSS/JS](https://media.licdn.com/dms/image/D4D2DAQEzwKHBzLIYaQ/profile-treasury-document-images_1280/1/1701912678159?e=1730332800&v=beta&t=guUcgVS6Wl3ANHVPLQM2cUgBlTE-vflgthQ-I1omGjI) |
