@@ -53,14 +53,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ifP93G7BXUhU&format=png&color=000000" alt="PowerPoint" width="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="40"/></a>
 
------
+------
 
 <h3> > Languages </h3>
 
 - Español: Nativo
 - Inglés: Upper Intermediate / B2
 
------
+------
 
 ES
 
