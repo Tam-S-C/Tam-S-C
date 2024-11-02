@@ -23,7 +23,7 @@
 
 ------
 
-## > SKILLS 💻 ##
+<h3> > SKILLS 💻</h3>
 
 <h3> > Tecnologías / Lenguajes </h3>
 
