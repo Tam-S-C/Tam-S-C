@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Tam! </h1>
 <h3> > About Me </h3>
 
-- 📍 I'm from Bs. As., Argentina 🇦🇷
+- 📍 I'm from Bs. As., Argentina
 - 📲 I’m currently learning app development.
 - 💻 I like to stay updated in the world of technology.  
 - ✨ Hobbies: Playing the violin 🎻 and watching fantasy and sci-fi series 🚀
