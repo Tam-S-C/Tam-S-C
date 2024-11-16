@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m Tam! </h1>
-<h3> > About Me </h3>
+<h3> >> About Me </h3>
 
 - 📍 I'm from Bs. As., Argentina
 - 📲 I’m currently learning app development.
@@ -14,7 +14,7 @@
 
 ------
 
-<h3> > Connect with me </h3>
+<h3> >> Connect with me </h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-canzobre/) 
 [![CV](https://img.shields.io/badge/CV-fff?style=for-the-badge)](https://www.linkedin.com/in/tamara-canzobre/details/featured/1730579666472/single-media-viewer/?profileId=ACoAAAjG_QsBb2iF8vI0ImWONrBdqhLQ0Vzxgp0)
@@ -23,7 +23,7 @@
 
 ------
 
-<h3> > Skills 💻</h3>
+<h3> >> Skills 💻</h3>
 
 <h3> > Tecnologías / Lenguajes </h3>
 
@@ -55,7 +55,7 @@
 
 ------
 
-<h3> > Languages </h3>
+<h3> >> Languages </h3>
 
 - Español: Nativo
 - Inglés: Upper Intermediate / B2
@@ -65,7 +65,7 @@
 ES
 
 <h1> 👋 Hola, Soy Tam! </h1>
-<h3> > Sobre mí </h3>
+<h3> >> Sobre mí </h3>
 
 - 📍 Soy de Buenos Aires, Argentina.
 - Soy diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
