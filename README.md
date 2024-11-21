@@ -82,3 +82,7 @@ ES
 - *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
 - *Creatividad* 🎨 y *Atención* a los *Detalle*s 👁️🔍
 
+------
+
+[![Tam-S-C](https://github-readme-stats.vercel.app/api?username=Tam-S-C)](https://github.com/anuraghazra/github-readme-stats)
+
