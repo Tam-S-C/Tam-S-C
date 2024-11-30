@@ -32,7 +32,7 @@
 ![image](https://github.com/user-attachments/assets/1767df44-aa42-441c-ba84-d0ac373df9ed)
 ![image](https://github.com/user-attachments/assets/86312436-d34d-45ff-bbd7-f801a74c985b)
 ![image](https://github.com/user-attachments/assets/757bdda8-5bfa-44f8-a673-9515fd49ec53)
-![image](https://github.com/user-attachments/assets/1496e492-825a-4e31-81ca-8b26836fdbce)
+<img src="https://img.shields.io/badge/React JS-61DAFB?logo=React&logoColor=black&style=flat" width="78" />
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=black&style=flat" width="100" />
 
 ![image](https://github.com/user-attachments/assets/a4735e28-43b3-4e29-9330-7ee1166efd8c)
