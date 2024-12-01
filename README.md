@@ -68,8 +68,8 @@ ES
 <h1> 👋 Hola, Soy Tam! </h1>
 <h3> >> Sobre mí </h3>
 
-- 📍 Soy de Buenos Aires, Argentina.
-- Soy diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
+- Soy de Buenos Aires, Argentina.
+- Diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
 - Me gusta estar siempre aprendiendo habilidades nuevas y sumando conocimientos,
 
   actualmente estoy especializándome en Programación📲 y Diseño UI
