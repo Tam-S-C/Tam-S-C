@@ -63,7 +63,7 @@
 
 ------
 
-ES
+<h3>ES</h3>
 
 <h1> 👋 Hola, Soy Tam! </h1>
 <h3> >> Sobre mí </h3>
