@@ -1,4 +1,4 @@
-<h4>// EN</h4>
+<h4>// EN </h4>
 
 <h1> 👋 Hi, I’m Tam! </h1>
 <h3> >> About Me </h3>
@@ -65,7 +65,7 @@
 
 ------
 
-<h4>// ES</h4>
+<h4>// ES </h4>
 
 <h1> 👋 Hola, Soy Tam! </h1>
 <h3> >> Sobre mí </h3>
