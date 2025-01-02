@@ -27,7 +27,7 @@
 
 <h3> >> Skills 💻</h3>
 
-<h3> > Technologies </h3>
+<h4> > Technologies </h4>
 
 ![image](https://github.com/user-attachments/assets/09bb3851-8f1c-44b2-a0f1-330181e7aad1)
 ![image](https://github.com/user-attachments/assets/e27f4435-1fa4-43b0-93a4-9f2da115d562)
@@ -41,7 +41,7 @@
 ![image](https://github.com/user-attachments/assets/e8be5317-335b-42f1-a439-aeea4ae937f1)
 
 
-<h3> > Design </h3>
+<h4> > Design </h4>
 
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28"/></a>
@@ -49,7 +49,7 @@
 ![image](https://github.com/user-attachments/assets/1dc24ed1-b6be-432c-82e7-45a4252f1246) 
 
 
-<h3> > Pack Office </h3>
+<h4> > Pack Office </h4>
 
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" alt="Word" width="40"/></a>
