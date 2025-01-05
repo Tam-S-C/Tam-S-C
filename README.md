@@ -73,7 +73,7 @@
 - Soy de Buenos Aires, Argentina.
 - Diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
 - Me gusta estar siempre aprendiendo habilidades nuevas y sumando conocimientos,
-
+  
   actualmente estoy especializándome en Programación📲 y Diseño UI
   
   y buscando un trabajo trainee, jr. o pasantía de ello.
