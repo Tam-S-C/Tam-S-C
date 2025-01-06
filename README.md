@@ -5,7 +5,8 @@
 
 - 📍 I'm from Bs. As., Argentina
 - 📲 I’m currently learning app development.
-- 💻 I like to stay updated in the world of technology.  
+- 💻 I like to stay updated in the world of technology.
+- 📚 I'm Graphic Designer.  
 - ✨ Hobbies: Playing the violin 🎻 and watching fantasy and sci-fi series 🚀
  
 > [!IMPORTANT]
