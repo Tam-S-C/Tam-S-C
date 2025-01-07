@@ -75,9 +75,7 @@
 - Diseñadora gráfica freelance, tengo mi marca de papelería artesanal: arTamCrafts®📚
 - Me gusta estar siempre aprendiendo habilidades nuevas y sumando conocimientos,
   
-  actualmente estoy especializándome en Programación📲 y Diseño UI
-  
-  y buscando un trabajo trainee, jr. o pasantía de ello.
+  actualmente estoy especializándome en Programación📲 y Diseño UI.
 - Hobbies: Tocar el violín 🎻 y ver series y películas de fantasía o sci-fi 🚀
 
 > [!IMPORTANT]
