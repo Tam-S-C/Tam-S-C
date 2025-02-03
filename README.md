@@ -11,9 +11,10 @@
  
 > [!IMPORTANT]
 > 🧩 Soft Skills:
-  - *Organization* 📋 and *Responsibility* 🗓️
-  - *Communication* 🗣️ *Sincerity* above all ❤️ and *Empathy* 🤝
-  - *Creativity* 🎨 and *Attention* to *Details* 👁️🔍
+- ✅ Organization 📋 and Responsibility 🗓️
+- ✅ Communication 🗣️, Honesty ❤️, and Empathy 🤝
+- ✅ Creativity 🎨 and Attention to Detail 👁️🔍
+- ✅ Enthusiasm 🙌 and Proactivity 💪
 
 ------
 
@@ -80,9 +81,10 @@
 
 > [!IMPORTANT]
 > 🧩 Habilidades Blandas:
-- *Organización* 📋 y *Responsabilidad* 🗓️
-- *Comunicación* 🗣️ *Sinceridad* sobre todas las cosas ❤️ y *Empatía* 🤝
-- *Creatividad* 🎨 y *Atención* a los *Detalle*s 👁️🔍
+- ✅ Organización 📋 y Responsabilidad 🗓️
+- ✅ Comunicación 🗣️, Sinceridad ❤️ y Empatía 🤝
+- ✅ Creatividad 🎨 y Atención a los Detalles 👁️🔍
+- ✅ Entusiasmo 🙌 y Proactividad 💪
 
 ------
 
