@@ -38,6 +38,7 @@
 ![image](https://github.com/user-attachments/assets/757bdda8-5bfa-44f8-a673-9515fd49ec53)
 <img src="https://img.shields.io/badge/React JS-61DAFB?logo=React&logoColor=black&style=flat" width="78" />
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=black&style=flat" width="100" />
+<img src="https://img.shields.io/badge/MONGOdb-61DAFB?&style=flat" width="72" />
 
 ![image](https://github.com/user-attachments/assets/a4735e28-43b3-4e29-9330-7ee1166efd8c)
 ![image](https://github.com/user-attachments/assets/e8be5317-335b-42f1-a439-aeea4ae937f1)
