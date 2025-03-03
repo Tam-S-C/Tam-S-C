@@ -36,16 +36,7 @@
 ![image](https://github.com/user-attachments/assets/1767df44-aa42-441c-ba84-d0ac373df9ed)
 ![image](https://github.com/user-attachments/assets/86312436-d34d-45ff-bbd7-f801a74c985b)
 ![image](https://github.com/user-attachments/assets/757bdda8-5bfa-44f8-a673-9515fd49ec53)
-
-
-> STACK MERN
-> 
-![Static Badge](https://img.shields.io/badge/Mongo-%2347A248?logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Mongoose-%2347A248?logo=mongoosedotws&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=black&style=flat" width="96" />
-![Static Badge](https://img.shields.io/badge/Express-%2347A248?logo=express&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?logo=sass&logoColor=white)
 
 ![image](https://github.com/user-attachments/assets/a4735e28-43b3-4e29-9330-7ee1166efd8c)
 ![Static Badge](https://img.shields.io/badge/Git-%23181717?logo=git&logoColor=white)
@@ -53,6 +44,14 @@
 ![Static Badge](https://img.shields.io/badge/Yarn-%232C8EBB?logo=yarn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/NPM-%23CB3837?logo=npm&logoColor=white)
 
+<h3> > Stack MERN </h3>
+ 
+![Static Badge](https://img.shields.io/badge/Mongo-%2347A248?logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mongoose-%2347A248?logo=mongoosedotws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?logo=React&logoColor=black&style=flat" width="96" />
+![Static Badge](https://img.shields.io/badge/Express-%2347A248?logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&logoColor=white)
 
 
 <h4> > Design </h4>
