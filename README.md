@@ -16,7 +16,7 @@
 - ✅ Creativity 🎨 and Attention to Detail 👁️🔍
 - ✅ Enthusiasm 🙌 and Proactivity 💪
 
-------
+-----
 
 <h3> >> Connect with me </h3>
 
@@ -25,7 +25,7 @@
 [![portfolio](https://img.shields.io/badge/Behance-000?style=for-the-badge&logoColor=black)](https://www.behance.net/tamaracanzobre)
 [![portfolioWeb](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge)](https://tamaracanzobre.myportfolio.com/)
 
-------
+-----
 
 <h3> >> Skills 💻</h3>
 
@@ -69,14 +69,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=ifP93G7BXUhU&format=png&color=000000" alt="PowerPoint" width="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="40"/></a>
 
-------
+-----
 
 <h3> >> Languages </h3>
 
 - Español: Nativo
 - Inglés: Upper Intermediate / B2
 
-------
+-----
 
 <h4>// ES </h4>
 
@@ -97,7 +97,7 @@
 - ✅ Creatividad 🎨 y Atención a los Detalles 👁️🔍
 - ✅ Entusiasmo 🙌 y Proactividad 💪
 
-------
+-----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tam-S-C&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
