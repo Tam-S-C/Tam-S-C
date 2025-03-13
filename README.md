@@ -56,10 +56,9 @@
 
 <h4> > Design </h4>
 
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28"/></a>
-![image](https://github.com/user-attachments/assets/04d1c25b-71a6-4c2e-8b5c-c0cbc045ef8e) 
-![image](https://github.com/user-attachments/assets/1dc24ed1-b6be-432c-82e7-45a4252f1246) 
+<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"> 
+<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg"> <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg"> 
+<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg">
 
 
 <h4> > Pack Office </h4>
