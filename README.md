@@ -56,9 +56,9 @@
 
 <h4> > Design </h4>
 
-<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"> 
-<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg"> <img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg"> 
-<img height="24" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"> 
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg"> <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg"> 
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg">
 
 
 <h4> > Pack Office </h4>
