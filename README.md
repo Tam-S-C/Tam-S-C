@@ -44,7 +44,7 @@
 ![Static Badge](https://img.shields.io/badge/NPM-%23CB3837?logo=npm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Yarn-%232C8EBB?logo=yarn&logoColor=white)
 
-<h3> > Stack MERN </h3>
+<h4> > Stack MERN </h4>
  
 ![Static Badge](https://img.shields.io/badge/Mongo-%2347A248?logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Mongoose-%2347A248?logo=mongoosedotws&logoColor=white)
